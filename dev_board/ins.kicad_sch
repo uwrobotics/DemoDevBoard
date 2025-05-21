@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "b62a8c25-47c8-4153-af8e-5388faf9280c")
+	(paper "A4")
+	(lib_symbols)
+	(text "imu+gps\n"
+		(exclude_from_sim no)
+		(at 50.8 54.102 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b2b651c8-c2bb-426b-87ec-e0f0623263a1")
+	)
+)
