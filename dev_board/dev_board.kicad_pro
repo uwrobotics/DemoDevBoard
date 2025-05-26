@@ -488,7 +488,14 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/IO/D_N": [
+        "Diff"
+      ],
+      "/IO/D_P": [
+        "Diff"
+      ]
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -630,16 +637,8 @@
       "aux_mcu"
     ],
     [
-      "61d33c21-fc00-4817-8cef-7766d66e9e7e",
-      "power"
-    ],
-    [
-      "dd5052cd-8143-4ef8-a00f-ea4d2eb216d0",
-      "display"
-    ],
-    [
-      "f952bf1c-126e-48a9-8d68-982bf8bd2065",
-      "ins"
+      "5f2588a7-c0bc-4980-8cb9-e0fc553a0935",
+      "IO"
     ]
   ],
   "text_variables": {}
